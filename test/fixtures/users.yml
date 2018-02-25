@@ -2,8 +2,8 @@
 
 one:
   login: MyString
-  senha: 
+  senha: MyString
 
 two:
   login: MyString
-  senha: 
+  senha: MyString
